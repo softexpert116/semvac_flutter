@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84204323794",
+    "project_id": "semvac-cfa16",
+    "storage_bucket": "semvac-cfa16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84204323794:android:7f7eedb66b5d7d9e41be0b",
+        "android_client_info": {
+          "package_name": "com.semvac.semvac_covid_viet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84204323794-6qlddvfbig5a0jghnp9c9lqc0ugvbmjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA17EosiVOR7utdZ3QyRyv6jGsE5KUZzFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84204323794-6qlddvfbig5a0jghnp9c9lqc0ugvbmjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
